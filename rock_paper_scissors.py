@@ -45,3 +45,10 @@ class Player:
             else:
                 self.num_wins += 1
                 return 'win'
+
+Rock = 'r'
+Paper = 'p'
+SCISSORS = 's'
+
+class Player:
+    pass
